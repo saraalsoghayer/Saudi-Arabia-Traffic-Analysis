@@ -1,14 +1,14 @@
-##Problem Statment:
+## Problem Statment:
 
 Saudi Arabia has the highest road accident death toll in the world. Working with both datasets, we expect to find trends between the number of driving licenses and the number of traffic accidents per region. Investigating the data, we found a couple of questionable drops and peaks in both the number of driving licenses issued and the number of traffic accidents. The main observations are as follows: a) a decrease in the number of accidents in 2017, b) an unusual significant drop in the number of driving licenses issued in one of the years. After analyzing the data, we expect to justify the above observations.
 
 
-##Executive Summary:
+## Executive Summary:
 
 There is a questionable decrease in the number of accidents in 2017, and an unusual significant drop in the number of driving licenses issued in one of the years. After Analyzing the data, we found that there is a positive relationship between number of driving licenses issued and number of accidents. We also noticed that the drop of the number of driving licenses issued in 2015 might be caused by the launch of Uber in Saudi Arabia. The decrease of the number of traffic accidents in 2017 might have been caused by many factors; the increase of fuel prices to support 2030 vision, canceling the immediate driving license test, and the implementation of new traffic laws followed by penalties for violations.
 
 
-##Datasets Description:
+## Datasets Description:
 
 Driving Licenses This dataset contains Saudi Arabia Driving Licenses Issued By Administrative Area for 1993 - 2016. Data from General Authority for Statistics . Follow datasource.kapsarc.org for timely data to advance energy economics research.
 
@@ -36,7 +36,7 @@ We merged the two datasets during the EDA part for easier analysis and named the
 We also created another dataset that combines similar columns and has null values(contains the years 1993-2017) as the driving licenses dataset has more historical information than the traffic accidents dataset.
 
 
-conclusions/recommendations:
+## conclusions/recommendations:
 
 - Riyadh, Eastern Province, and Makkah have the highest traffic accidents and driving licenses issued.
 - There is a positive relationship between bumber of driving licenses issued and number of accidents.
