@@ -36,7 +36,7 @@ We merged the two datasets during the EDA part for easier analysis and named the
 We also created another dataset that combines similar columns and has null values(contains the years 1993-2017) as the driving licenses dataset has more historical information than the traffic accidents dataset.
 
 
-## conclusions/recommendations:
+## Conclusions/recommendations:
 
 - Riyadh, Eastern Province, and Makkah have the highest traffic accidents and driving licenses issued.
 - There is a positive relationship between bumber of driving licenses issued and number of accidents.
